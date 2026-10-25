@@ -53,6 +53,13 @@
     <summary>How to give TRAE CLI recall over every coding agent&#39;s sessions on this machine — the MCP server in traecli.toml and the Codex hooks it trusts at start-up.</summary>
   </entry>
   <entry>
+    <title>Where Cursor stores its history — session format</title>
+    <id>https://vshulcz.github.io/deja-vu/registry/cursor.html</id>
+    <link rel="alternate" type="text/html" href="https://vshulcz.github.io/deja-vu/registry/cursor.html"></link>
+    <updated>2026-10-25T00:00:00Z</updated>
+    <summary>Where Cursor writes its conversation history on disk, what the files contain, the quirks deja found in them, and when the format was last verified against a real store.</summary>
+  </entry>
+  <entry>
     <title>Where Qwen Code stores its history — session format</title>
     <id>https://vshulcz.github.io/deja-vu/registry/qwen.html</id>
     <link rel="alternate" type="text/html" href="https://vshulcz.github.io/deja-vu/registry/qwen.html"></link>
